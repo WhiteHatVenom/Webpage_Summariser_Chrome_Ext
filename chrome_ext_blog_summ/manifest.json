@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Blog Summarizer",
+    "name": "QuickCapsule",
     "version": "1.0",
-    "description": "Summarize and download blog content",
+    "description": "Summarize and download Webpage content",
     "permissions": ["activeTab", "scripting", "downloads"],
     "action": {
       "default_popup": "popup.html",
